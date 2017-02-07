@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Tarea DOO</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="static/bookstore.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <div>
+            <!-- El nombre del action "CrearLibro", deberá coincidir con el nombre del servlet. -->
+            <form action="CrearLibro">
+                <h1>Agregar nuevo libro</h1>
+                <article>
+                    <header> <h2>Información general</h2> </header>
+                        <p>
+                            <label>Nombre:</label>                  <input type="text" name="nombre" /> <br>
+                            <label>Precio:</label>                  <input type="text" name="precio" /> <br>
+                            <label>ISBN</label>                     <input type="text" name="isbn" />   <br>
+                            <label>Fecha de publicacion:</label>    <input type="text" name="fecha" />  <br>
+                        </p>
+                  
+                    
+                    <header> <h2>Información del género</h2> </header>
+                        <p>
+                            <label>Genero: </label>                 
+                                <select name="genero" id="genero">
+                                        <option value="Arquitectura">Arquitectura</option>      
+                                        <option value="Ciencia">Ciencia</option>
+                                        <option value="Diccionarios">Diccionarios</option>
+                                        <option value="Filosofía">Filosofía</option>
+                                        <option value="Gastronomía">Gastronomía</option>
+                                        <option value="Historia universal">Historia universal</option>
+                                        <option value="Literatura juvenil">Literatura juvenil</option>
+                                </select>
+                        </p>
+                    
+                       
+                    <header> <h2>Información de publicación</h2> </header>
+                    <p>
+                        <label>Editorial: </label>              <input type="text" name="editorial" />  <br>
+                        <label>Autor: </label>                  <input type="text" name="autor" />      <br>
+                    </p>
+                    
+
+                    <br>
+                    <input type='submit' class="btn" value='Enviar' />
+                </article>
+                
+
+                <!-- Es necesario que los campos del formulario lleven una propiedad name. La cual será la variable a recuperar en el back-end -->
+                
+
+            </form>
+        </div>
+        
+    </body>
+</html>
