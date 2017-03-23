@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Index page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <!- https://www.dropbox.com/s/mv7ibn4vi0qyrn9/Lab%207%20-%20Database.pdf?dl=0 -!>
+        
+    </head>
+    <body>
+    
+        <form action="ComentariosControlador" method="POST">
+            <h1>Datos generales </h1>
+            
+            Nombre:     <input type="text" name="txt-nombre">       <br><br>    
+            Comentario: <input type="text" name="txt-comentario">
+            
+            <input type="submit" value="Enviar">
+            
+            <input type="hidden" name="accion" value="comentar">
+            
+        </form>
+        
+    </body>
+</html>
