@@ -1,0 +1,275 @@
+
+2017-03-28 20:38:05: Este metodo abre la conexion 
+
+ 
+
+
+
+2017-03-28 20:38:05: Este metodo hace un arraylist con los comentarios 
+
+
+
+
+
+2017-03-28 20:38:05: Este if compara ´buscar´y comenta 
+
+ 
+
+
+
+2017-03-28 20:38:06: Este metodo abre la conexion 
+
+ 
+
+
+
+2017-03-28 20:38:06: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+2017-03-28 20:38:06: Este if compara ´buscar´y comenta 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:35: Este metodo abre la conexion 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:35: Este metodo cierra la conexion 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:35: Este metodo inserta el comentario 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:35: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:38: Este metodo abre la conexion 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:38: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:38: Este if compara ´buscar´y comenta 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:39: Este metodo abre la conexion 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:39: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:39: Este if compara ´buscar´y comenta 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:40: Este metodo abre la conexion 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:40: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:40: Este if compara ´buscar´y comenta 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:41: Este metodo abre la conexion 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:41: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+
+
+2017-03-28 20:38:41: Este if compara ´buscar´y comenta 
+
+ 
+
+
+
+
+
+2017-04-04 17:45:42: Este metodo abre la conexion 
+
+
+
+
+
+
+2017-04-04 17:45:42: Este metodo cierra la conexion
+
+
+
+
+
+2017-04-04 17:45:42: Este metodo inserta el comentario 
+
+ 
+
+
+
+
+2017-04-04 17:45:42: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+
+2017-04-04 17:45:48: Este metodo abre la conexion 
+
+ 
+
+
+
+
+2017-04-04 17:45:48: Este metodo cierra la conexion 
+
+ 
+
+
+
+
+2017-04-04 17:45:48: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+
+2017-04-04 17:45:48: Este if compara ´buscar´ 
+
+ 
+
+
+
+
+2017-04-04 17:45:53: Este metodo abre la conexion 
+
+ 
+
+
+
+
+2017-04-04 17:45:53: Este metodo cierra la conexion 
+
+ 
+
+
+
+
+2017-04-04 17:45:53: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+
+2017-04-04 17:45:53: Este if compara ´buscar´ 
+
+ 
+
+
+
+
+2017-04-04 17:45:56: Este metodo abre la conexion 
+
+ 
+
+
+
+
+2017-04-04 17:45:56: Este metodo cierra la conexion 
+
+ 
+
+
+
+
+2017-04-04 17:45:56: Este metodo hace un arraylist con los comentarios 
+
+ 
+
+
+
+
+2017-04-04 17:45:56: Este if compara ´buscar´ 
+
+ 
+
